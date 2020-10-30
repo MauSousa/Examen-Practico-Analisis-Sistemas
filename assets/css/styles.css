@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+section {
+    margin-top: 3rem;
+    width: 60%;
+    padding: 10px;
+    margin-left: 25rem;
+}
+
+h2 {
+    font-weight: lighter;
+    font-size: 3rem;
+    margin: 1rem;
+    text-align: center;
+}
+
+.seccion {
+    width: 40%;
+    text-align: justify;
+    margin-left: 35rem;
+}

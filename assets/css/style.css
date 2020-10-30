@@ -1,0 +1,130 @@
+main {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+    width: 80%;
+    height: 100%;
+    vertical-align: top;
+    margin-left: 15rem;
+}
+div {
+    height: 25rem;
+    width: 5rem;
+}
+.card-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: space-around;
+    width: 30%;
+    height: 100%;
+}
+
+.card-2 {
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    height: 80%;
+}
+
+.card-3 {
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    height: 80%;
+}
+
+.perfume-1 {
+    margin-left: 7rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.perfume-2 {
+    margin-left: 7rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.perfume-3 {
+    margin-left: 7rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.perfume-4 {
+    margin-left: 7rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.perfume-5 {
+    margin-left: 7rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.perfume-6 {
+    margin-left: 7rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.perfume-7 {
+    margin-left: 7rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.perfume-8 {
+    margin-left: 7rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.perfume-9 {
+    margin-left: 7rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+p {
+    margin-bottom: 0.5rem;
+}
